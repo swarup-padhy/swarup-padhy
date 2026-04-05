@@ -46,18 +46,3 @@ Fresh MCA graduate (2025) with hands-on experience in automation frameworks, API
 | 💬 Real-Time Chat App QA | Functional + edge case testing | Python, Postman |
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swarup-padhy&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarup-padhy&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</p>
-
----
-
-### 📫 Reach Me
-
-- 📧 Email: `your.email@gmail.com`
-- 💼 LinkedIn: [linkedin.com/in/YOUR_ID](https://linkedin.com/in/YOUR_ID)
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
