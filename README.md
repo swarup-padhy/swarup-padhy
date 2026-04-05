@@ -1,16 +1,63 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hey, I'm Swarup Padhy 👋</h1>
+  <p><b>QA Engineer · Python Automation · Selenium · Pytest</b></p>
+  <p>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+    <a href="https://YOUR_PORTFOLIO_LINK">Portfolio</a> •
+    📍 Hyderabad, India
+  </p>
+</div>
 
-<!--
-**swarup-padhy/swarup-padhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔍 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a QA Engineer focused on **Test Automation** using Python and Selenium.  
+Fresh MCA graduate (2025) with hands-on experience in automation frameworks, API testing, and accessibility audits.
+
+- 🔭 Currently building a **Hybrid Test Automation Framework** (Pytest + Allure + GitHub Actions + Docker)
+- 🌐 Building my **portfolio website** in React + TypeScript + Tailwind CSS
+- 📚 Deepening skills in **CI/CD, POM architecture**, and real-world test strategy
+- 💼 Actively seeking roles in **Bengaluru · Mumbai · Chennai · Pune · Remote**
+- ⚡ I follow the **80/20 rule** — high-impact learning, applied fast
+
+---
+
+### 🛠️ Tech Stack
+
+**Testing**
+`Selenium WebDriver` `Pytest` `POM Architecture` `REST API Testing` `Postman` `WCAG 2.1 Accessibility`
+
+**Languages & Tools**
+`Python` `Git` `JIRA` `Chrome DevTools` `MongoDB`
+
+**Currently Learning**
+`GitHub Actions` `Allure Reports` `Docker` `pytest-xdist`
+
+---
+
+### 📂 Featured Projects
+
+| Project | What I tested | Tools |
+|---|---|---|
+| 🔐 Auth System Security QA | 150+ test cases · Found NoSQL injection vulnerability | Python, Pytest |
+| 🛒 E-Commerce Automation Framework | POM-based end-to-end automation | Selenium, Pytest |
+| ♿ Wikipedia Accessibility Audit | WCAG 2.1 compliance testing | Chrome DevTools, JIRA |
+| 💬 Real-Time Chat App QA | Functional + edge case testing | Python, Postman |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swarup-padhy&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarup-padhy&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+</p>
+
+---
+
+### 📫 Reach Me
+
+- 📧 Email: `your.email@gmail.com`
+- 💼 LinkedIn: [linkedin.com/in/YOUR_ID](https://linkedin.com/in/YOUR_ID)
+- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
