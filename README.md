@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Tools I Use
+### Tools I Use
 - **Testing:** Selenium WebDriver, Pytest, Postman, REST API Testing
 - **Languages:** Python 
 - **Others:** Git, JIRA, Chrome DevTools
