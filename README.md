@@ -3,7 +3,6 @@
   <p><b>QA Engineer focused on Automation Testing and Manual Testing</b></p>
   <p>
     <a href="https://www.linkedin.com/in/swarup-padhy">LinkedIn</a> | 
-    <a href="https://swarup-pdy.vercel.app/">Portfolio</a> | 
     Hyderabad, India
   </p>
 </div>
